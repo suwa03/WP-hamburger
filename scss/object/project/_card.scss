@@ -9,11 +9,11 @@
 
 .p-card {
   &__TakeOut {
-    background-image: url(/img/frontpage_card1.jpg);
+    background-image: url(../img/frontpage_card1.jpg);
   }
 
   &__EatIn {
-    background-image: url(/img/frontpage_card2.jpg);
+    background-image: url(../img/frontpage_card2.jpg);
 
     @include breakpoint (tablet) {
       margin-left: 40px;
